@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hey there 👋
+I'm Akbarkhuja, designer and (&vibe)coder based in Uzbekistan.
+I design and build whatever come to my mind and what people ask me to do.
+I'm always ready to work!
+I have a lot of tech stuff such as (MacBook, ipad, Pc, Keyboard, Windows Laptop, and etc
 
-<!--
-**akbarkhujamarufov/akbarkhujamarufov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on freelance platforms
+- 🌱 I’m currently learning coding
+- 👯 I’m looking to collaborate on big projects
+- 🤔 I’m looking for help with coding stuff
+- 💬 Ask me about coding and design
+- 📫 How to reach me: @akbarbrawl2000@gmail.com or other other social media (tg: @mccreedk)
