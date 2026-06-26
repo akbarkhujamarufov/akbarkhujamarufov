@@ -9,4 +9,4 @@ I have a lot of tech stuff such as (MacBook, ipad, Pc, Keyboard, Windows Laptop,
 - 👯 I’m looking to collaborate on big projects
 - 🤔 I’m looking for help with coding stuff
 - 💬 Ask me about coding and design
-- 📫 How to reach me: @akbarbrawl2000@gmail.com or other other social media (tg: @mccreedk)
+- 📫 How to reach me: akbarbrawl2000@gmail.com or other other social media (tg: @mccreedk)
